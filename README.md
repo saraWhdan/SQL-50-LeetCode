@@ -1,1 +1,60 @@
-# Sql-50
+
+#  SQL 50 LeetCode
+### Select
+1. [Recyclable and Low Fat Products](https://github.com/saraWhdan/1-Recyclable-and-Low-Fat-Products)
+2. [Find Customer Referee](https://github.com/saraWhdan/584.-Find-Customer-Referee)
+3. [Big Countries](https://github.com/saraWhdan/595.-Big-Countries)
+4. [Article Views I](https://github.com/saraWhdan/1148.-Article-Views-I)
+5. [Invalid Tweets](https://github.com/saraWhdan/1683.-Invalid-Tweets)
+### Basic Joins
+6. [Replace Employee ID With The Unique Identifier](https://github.com/saraWhdan/1378.-Replace-Employee-ID-With-The-Unique-Identifier-)
+7. [Product Sales Analysis I](https://github.com/saraWhdan/1068.-Product-Sales-Analysis-I)
+8. [Customer Who Visited but Did Not Make Any Transactions](https://github.com/saraWhdan/1581.-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions-)
+9. [Rising Temperature](https://github.com/saraWhdan/197.-Rising-Temperature)
+10. [Average Time of Process per Machine](https://github.com/saraWhdan/1661.-Average-Time-of-Process-per-Machine-)
+11. [Employee Bonus](https://github.com/saraWhdan/577.-Employee-Bonus-)
+12. [Students and Examinations](https://github.com/saraWhdan/1280.-Students-and-Examinations)
+13. [Managers with at Least 5 Direct Reports](https://github.com/saraWhdan/570.-Managers-with-at-Least-5-Direct-Reports-)
+14. [Confirmation Rate](https://github.com/saraWhdan/1934.-Confirmation-Rate-)
+### Basic Aggregate Functions
+15. [ Not Boring Movies](https://github.com/saraWhdan/620.-Not-Boring-Movies)
+16.  [Average Selling Price](https://github.com/saraWhdan/1251.-Average-Selling-Price)
+17.  [Project Employees I](https://github.com/saraWhdan/1075.-Project-Employees-I)
+18.  [Percentage of Users Attended a Contest](https://github.com/saraWhdan/1633.-Percentage-of-Users-Attended-a-Contest)
+19.  [Queries Quality and Percentage](https://github.com/saraWhdan/1211.-Queries-Quality-and-Percentage)
+20.  [Monthly Transactions I](https://github.com/saraWhdan/1193.-Monthly-Transactions-I)
+21.  [Immediate Food Delivery II](https://github.com/saraWhdan/1174.-Immediate-Food-Delivery-II)
+22.  [Game Play Analysis IV](https://github.com/saraWhdan/550.-Game-Play-Analysis-IV)
+### Sorting and Grouping
+23. [ Number of Unique Subjects Taught by Each Teacher](https://github.com/saraWhdan/2356.-Number-of-Unique-Subjects-Taught-by-Each-Teacher)
+24. [ User Activity for the Past 30 Days I](https://github.com/saraWhdan/1141.-User-Activity-for-the-Past-30-Days-I)
+25.  [Product Sales Analysis III](https://github.com/saraWhdan/Product_Sales_Analysis_III)
+26.  [Classes More Than 5 Students](https://github.com/saraWhdan/Classes-More-Than-5-Students)
+27.  [Find Followers Count](https://github.com/saraWhdan/-Find-Followers-Count)
+28.  [Biggest Single Number](https://github.com/saraWhdan/Biggest-Single-Number)
+29.  [Customers Who Bought All Products](https://github.com/saraWhdan/Customers-Who-Bought-All-Products)
+### Advanced Select and Joins
+30. [The Number of Employees Which Report to Each Employee](https://github.com/saraWhdan/.-The-Number-of-Employees-Which-Report-to-Each-Employee)
+31. [Primary Department for Each Employee](https://github.com/saraWhdan/-Primary-Department-for-Each-Employee)
+32. [Triangle Judgement](https://github.com/saraWhdan/Triangle-Judgement)
+33. [Consecutive Numbers](https://github.com/saraWhdan/Consecutive-Numbers)
+34. [Product Price at a Given Date](https://github.com/saraWhdan/1164.-Product-Price-at-a-Given-Date)
+35. [Last Person to Fit in the Bus](https://github.com/saraWhdan/1204.-Last-Person-to-Fit-in-the-Bus)
+36. [Count Salary Categories](https://github.com/saraWhdan/Count-Salary-Categories)
+### Subqueries
+37. [ Employees Whose Manager Left the Company](https://github.com/saraWhdan/1978.-Employees-Whose-Manager-Left-the-Company)
+38. [ Exchange Seats](https://github.com/saraWhdan/570.-Managers-with-at-Least-5-Direct-Reports-)
+39. [ Movie Rating](https://github.com/saraWhdan/1341.-Movie-Rating)
+40.  [Restaurant Growth](https://github.com/saraWhdan/1321.-Restaurant-Growth)
+41.  [Friend Requests II: Who Has the Most Friends](https://github.com/saraWhdan/602.-Friend-Requests-II-Who-Has-the-Most-Friends)
+42. [ Investments in 2016](https://github.com/saraWhdan/585.-Investments-in-2016)
+43. [Department Top Three Salaries](https://github.com/saraWhdan/185.-Department-Top-Three-Salaries)
+### Advanced String Functions / Regex / Clause
+44. [Fix Names in a Table](https://github.com/saraWhdan/1667.-Fix-Names-in-a-Table)
+45. [Patients With a Condition](https://github.com/saraWhdan/Patients-With-a-Condition)
+46. [Delete Duplicate Emails](https://github.com/saraWhdan/Delete-Duplicate-Emails)
+47. [ Second Highest Salary](https://github.com/saraWhdan/Second-Highest-Salary)
+48. [Group Sold Products By The Date](https://github.com/saraWhdan/Group-Sold-Products-By-The-Date)
+49. [List the Products Ordered in a Period](https://github.com/saraWhdan/1327.-List-the-Products-Ordered-in-a-Period)
+50. [Find Users With Valid E-Mails](https://github.com/saraWhdan/Find-Users-With-Valid-E-Mails)
+
